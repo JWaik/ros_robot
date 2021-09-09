@@ -1,2 +1,2 @@
-# ros_robot
+# Wheel robot
 Building robot with ROS
